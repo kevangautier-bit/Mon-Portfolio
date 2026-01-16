@@ -1,0 +1,38 @@
+{
+    "projets": [
+        {
+            "id": 1,
+            "titre": "Quiz sur les villes",
+            "description": "Un quiz intéractif sur les villes des 4 élèves du projet de groupe ",
+            "technologies": [
+                "Html",
+                "CSS",
+                "Javascript"
+            ],
+            "type": "Projet de groupe",
+            "lien": "https://github.com/kevangautier-bit/projet-de-groupe"
+        },
+        {
+            "id": 2,
+            "titre": "Carte de menu d'un restaurant",
+            "description": "réalisation d'un menu de restaurant responsive durant mon premier solo rush de la formation",
+            "technologies": [
+                "Html",
+                "CSS"
+            ],
+            "type": "Projet solo rush de 24h",
+            "lien": "https://github.com/kevangautier-bit/menu-restaurant"
+        },
+        {
+            "id": 3,
+            "titre": "Création d'un pokédex",
+            "description": "réalisation d'un pokédex durant les quêtes de découvertes de react avec la Wild",
+            "technologies": [
+                "React",
+                "TypeScript"
+            ],
+            "type": "Quête découverte réalisée sur deux jours",
+            "lien": "https://github.com/kevangautier-bit/app-pokemon"
+        }
+    ]
+}
