@@ -20,6 +20,9 @@ function Projet() {
                         <a href={projet.lien} target="_blank" rel="noopener noreferrer">
                             Voir le projet
                         </a>
+                        <a href={projet.demo} target="_blank" rel="noopener noreferrer">
+                            Voir la demo
+                        </a>
                     </div>
                 ))}
             </section>

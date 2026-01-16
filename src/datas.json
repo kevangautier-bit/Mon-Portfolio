@@ -10,7 +10,8 @@
                 "Javascript"
             ],
             "type": "Projet de groupe",
-            "lien": "https://github.com/kevangautier-bit/projet-de-groupe"
+            "lien": "https://github.com/kevangautier-bit/projet-de-groupe",
+            "demo": "https://projet-de-groupe-nine.vercel.app/"
         },
         {
             "id": 2,
@@ -21,7 +22,8 @@
                 "CSS"
             ],
             "type": "Projet solo rush de 24h",
-            "lien": "https://github.com/kevangautier-bit/menu-restaurant"
+            "lien": "https://github.com/kevangautier-bit/menu-restaurant",
+            "demo": "https://menu-restaurant-puce.vercel.app/"
         },
         {
             "id": 3,
@@ -32,7 +34,8 @@
                 "TypeScript"
             ],
             "type": "Quête découverte réalisée sur deux jours",
-            "lien": "https://github.com/kevangautier-bit/app-pokemon"
+            "lien": "https://github.com/kevangautier-bit/app-pokemon",
+            "demo": "https://vercel.com/kevan-gautiers-projects/app-pokemon"
         }
     ]
 }

@@ -53,6 +53,42 @@ body {
   border-radius: 10px; 
   box-shadow: 0 2px 10px rgba(0,0,0,0.1); 
 }
+.projet-card a {
+  display: inline-block;
+  margin: 10px 5px 0 0;
+  padding: 8px 16px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.projet-card a:first-of-type {
+  background-color: #0366d6; 
+  color: white;
+}
+
+.projet-card a:first-of-type:hover {
+  background-color: #024f9d;
+}
+
+.projet-card a:last-of-type {
+  background-color:#0366d6 ;
+  color: white;
+}
+
+.projet-card a:last-of-type:hover {
+  background-color: #024f9d;
+}
+.tech-badge {
+  display: inline-block; 
+  margin-right: 8px;     
+  padding: 4px 8px;
+  background-color: #eee;
+  border-radius: 4px;
+  font-size: 0.9rem;
+}
+
 .footer {
    background-color: rgb(3, 3, 42);
    color:rgb(162, 142, 25);
