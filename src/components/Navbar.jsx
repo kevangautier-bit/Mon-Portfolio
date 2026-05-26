@@ -5,6 +5,7 @@ const LINKS = [
   { to: '/', label: '[ ACCUEIL ]' },
   { to: '/projets', label: '[ PROJETS ]' },
   { to: '/parcours', label: '[ PARCOURS ]' },
+  { to: '/cv', label: '[ CV ]' },
 ];
 
 export default function Navbar() {

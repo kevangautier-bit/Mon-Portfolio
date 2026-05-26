@@ -39,14 +39,16 @@ export default function Projets() {
                 >
                   [ GitHub ]
                 </a>
-                <a
-                  href={projet.demo}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="card-link secondary"
-                >
-                  [ Demo ]
-                </a>
+                {projet.demo && (
+                  <a
+                    href={projet.demo}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="card-link secondary"
+                  >
+                    [ Demo ]
+                  </a>
+                )}
               </div>
             </div>
           ))}

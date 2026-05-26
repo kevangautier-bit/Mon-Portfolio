@@ -26,16 +26,32 @@
             "demo": "https://menu-restaurant-puce.vercel.app/"
         },
         {
-            "id": 3,
-            "titre": "Création d'un pokédex",
-            "description": "Réalisation d'un pokédex durant les quêtes de découvertes de react avec la Wild",
+            "id": 4,
+            "titre": "Strasgite",
+            "description": "Application React de groupe sur les gîtes de Strasbourg, avec gestion de l'état via useState et persistance des données en localStorage",
             "technologies": [
                 "React",
-                "TypeScript"
+                "TypeScript",
+                "Material UI",
+                "CSS"
             ],
-            "type": "Quête découverte réalisée sur deux jours",
-            "lien": "https://github.com/kevangautier-bit/app-pokemon",
-            "demo": "https://vercel.com/kevan-gautiers-projects/app-pokemon"
+            "type": "Projet de groupe front-end",
+            "lien": "https://github.com/kevangautier-bit/projetstrasgite",
+            "demo": "https://projetstrasgite.vercel.app"
+        },
+        {
+            "id": 5,
+            "titre": "CoachBoard",
+            "description": "Application web full stack développée en groupe pour la gestion et le suivi de coaching, avec une architecture frontend React et un backend déployé sur Railway",
+            "technologies": [
+                "React",
+                "TypeScript",
+                "Material UI",
+                "Vite"
+            ],
+            "type": "Projet de groupe full stack",
+            "lien": "https://github.com/kevangautier-bit/projet-coachboard-front",
+            "demo": null
         }
     ]
 }
