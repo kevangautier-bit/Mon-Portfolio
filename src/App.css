@@ -422,6 +422,13 @@
 
 /* ── CV ──────────────────────────────────────────────────── */
 
+.cv-actions {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
 .cv-grid {
   display: grid;
   grid-template-columns: 260px 1fr;

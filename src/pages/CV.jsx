@@ -138,6 +138,23 @@ export default function CV() {
           <p className="page-subtitle">
             {'// Kevan GAUTIER · Développeur Full Stack · Nantes · Disponible dès le 1er juin 2026'}
           </p>
+          <div className="cv-actions">
+            <a
+              href="/cv.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="cta-btn"
+            >
+              [ Voir le PDF ]
+            </a>
+            <a
+              href="/cv.pdf"
+              download="CV_Kevan_GAUTIER.pdf"
+              className="cta-btn secondary"
+            >
+              [ Télécharger ]
+            </a>
+          </div>
         </div>
 
         <div className="cv-grid">
